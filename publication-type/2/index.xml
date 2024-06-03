@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Xiaojuan Gou</title>
+    <link>https://gouxiaojuan.github.io/publication-type/2/</link>
+      <atom:link href="https://gouxiaojuan.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 19 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://gouxiaojuan.github.io/media/logo_hu57dd110a617e3774f481ac89b955aa93_44615_300x300_fit_lanczos_3.png</url>
+      <title>2</title>
+      <link>https://gouxiaojuan.github.io/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>Single-cell transcriptome landscape and antigen receptor dynamic during SARS-CoV-2 vaccination</title>
+      <link>https://gouxiaojuan.github.io/publication/single-cell-transcriptome-landscape-and-antigen-receptor-dynamic-during-sars-cov-2-vaccination/</link>
+      <pubDate>Wed, 19 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://gouxiaojuan.github.io/publication/single-cell-transcriptome-landscape-and-antigen-receptor-dynamic-during-sars-cov-2-vaccination/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Strategies to package recombinant Adeno-Associated Virus expressing the N-terminal gasdermin domain for tumor treatment</title>
+      <link>https://gouxiaojuan.github.io/publication/strategies-to-package-recombinant-adeno-associated-virus-expressing-the-n-terminal-gasdermin-domain-for-tumor-treatment/</link>
+      <pubDate>Thu, 09 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://gouxiaojuan.github.io/publication/strategies-to-package-recombinant-adeno-associated-virus-expressing-the-n-terminal-gasdermin-domain-for-tumor-treatment/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

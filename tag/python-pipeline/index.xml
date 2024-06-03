@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Python pipeline | Xiaojuan Gou</title>
+    <link>https://gouxiaojuan.github.io/tag/python-pipeline/</link>
+      <atom:link href="https://gouxiaojuan.github.io/tag/python-pipeline/index.xml" rel="self" type="application/rss+xml" />
+    <description>Python pipeline</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 25 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://gouxiaojuan.github.io/media/logo_hu57dd110a617e3774f481ac89b955aa93_44615_300x300_fit_lanczos_3.png</url>
+      <title>Python pipeline</title>
+      <link>https://gouxiaojuan.github.io/tag/python-pipeline/</link>
+    </image>
+    
+    <item>
+      <title>Spatial-domain</title>
+      <link>https://gouxiaojuan.github.io/project/spatial-domain/</link>
+      <pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://gouxiaojuan.github.io/project/spatial-domain/</guid>
+      <description>&lt;p&gt;&lt;code&gt;Spatial-domain&lt;/code&gt; is a process that uses STAGATE to find spatial domain.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SVG</title>
+      <link>https://gouxiaojuan.github.io/project/svg/</link>
+      <pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://gouxiaojuan.github.io/project/svg/</guid>
+      <description>&lt;p&gt;&lt;code&gt;SVG&lt;/code&gt; is a process that uses sptialDE to find spatially variable genes.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

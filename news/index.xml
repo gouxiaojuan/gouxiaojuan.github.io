@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>📰 News | Xiaojuan Gou</title>
+    <link>https://gouxiaojuan.github.io/news/</link>
+      <atom:link href="https://gouxiaojuan.github.io/news/index.xml" rel="self" type="application/rss+xml" />
+    <description>📰 News</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://gouxiaojuan.github.io/media/logo_hu57dd110a617e3774f481ac89b955aa93_44615_300x300_fit_lanczos_3.png</url>
+      <title>📰 News</title>
+      <link>https://gouxiaojuan.github.io/news/</link>
+    </image>
+    
+  </channel>
+</rss>
