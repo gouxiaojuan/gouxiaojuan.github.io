@@ -34,6 +34,15 @@ No cookies or tracking technologies are used.&lt;/p&gt;
     </item>
     
     <item>
+      <title>2026-01-02 Paper published in National Science Review</title>
+      <link>https://gouxiaojuan.github.io/news/2026-01-02-paper-published-in-national-science-review/</link>
+      <pubDate>Fri, 02 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://gouxiaojuan.github.io/news/2026-01-02-paper-published-in-national-science-review/</guid>
+      <description>&lt;p&gt;Our paper Evolutionary convergence and divergence of hippocampal cytoarchitecture between rodents and primates revealed by single-cell spatial transcriptomics has been accepted for publication in National Science Review.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Evolutionary convergence and divergence of hippocampal cytoarchitecture between rodents and primates revealed by single-cell spatial transcriptomics</title>
       <link>https://gouxiaojuan.github.io/publication/evolutionary-convergence-and-divergence-of-hippocampal-cytoarchitecture-between-rodents-and-primates-revealed-by-single-cell-spatial-transcriptomics/</link>
       <pubDate>Fri, 02 Jan 2026 00:00:00 +0000</pubDate>
@@ -50,28 +59,55 @@ No cookies or tracking technologies are used.&lt;/p&gt;
     </item>
     
     <item>
+      <title>2025-04-30 Visiting PhD at UNSW sydney</title>
+      <link>https://gouxiaojuan.github.io/news/2025-04-30-visiting-phd-at-unsw-sydney/</link>
+      <pubDate>Wed, 30 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://gouxiaojuan.github.io/news/2025-04-30-visiting-phd-at-unsw-sydney/</guid>
+      <description>&lt;p&gt;During my one-year visiting program at UNSW, I systematically expanded my expertise in epigenomics, becoming proficient in ATAC-seq, ChIP-seq, and CUT&amp;amp;RUN data analysis. I applied multiple approaches to investigate the conservation of regulatory elements across species and explored the application of deep learning in biological data analysis. Throughout this experience, I further strengthened my research collaboration skills and broadened my international academic perspective, laying a solid foundation for the study of complex gene regulatory mechanisms.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2022-09-08 Paper published in Genes &amp; Diseases</title>
+      <link>https://gouxiaojuan.github.io/news/2022-09-08-paper-published-in-genes-diseases/</link>
+      <pubDate>Thu, 08 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://gouxiaojuan.github.io/news/2022-09-08-paper-published-in-genes-diseases/</guid>
+      <description>&lt;p&gt;Our paper Single-cell transcriptome landscape and antigen receptor dynamic during SARS-CoV-2 vaccination has been accepted for publication in Genes &amp;amp; Diseases.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Single-cell transcriptome landscape and antigen receptor dynamic during SARS-CoV-2 vaccination</title>
       <link>https://gouxiaojuan.github.io/publication/single-cell-transcriptome-landscape-and-antigen-receptor-dynamic-during-sars-cov-2-vaccination/</link>
-      <pubDate>Wed, 19 Jul 2023 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 08 Sep 2022 00:00:00 +0000</pubDate>
       <guid>https://gouxiaojuan.github.io/publication/single-cell-transcriptome-landscape-and-antigen-receptor-dynamic-during-sars-cov-2-vaccination/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Spatial-domain</title>
-      <link>https://gouxiaojuan.github.io/project/spatial-domain/</link>
+      <title>spatialDE-pipeline</title>
+      <link>https://gouxiaojuan.github.io/project/spatialde-pipeline/</link>
       <pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>https://gouxiaojuan.github.io/project/spatial-domain/</guid>
-      <description>&lt;p&gt;&lt;code&gt;Spatial-domain&lt;/code&gt; is a process that uses STAGATE to find spatial domain.&lt;/p&gt;
+      <guid>https://gouxiaojuan.github.io/project/spatialde-pipeline/</guid>
+      <description>&lt;p&gt;&lt;code&gt;spatialDE-pipeline&lt;/code&gt; packages the SpatialDE method, allowing rapid detection of spatially variable genes (SVGs) in spatial transcriptomics data with a single command.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>SVG</title>
-      <link>https://gouxiaojuan.github.io/project/svg/</link>
+      <title>STAGATE-pipeline</title>
+      <link>https://gouxiaojuan.github.io/project/stagate-pipeline/</link>
       <pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>https://gouxiaojuan.github.io/project/svg/</guid>
-      <description>&lt;p&gt;&lt;code&gt;SVG&lt;/code&gt; is a process that uses sptialDE to find spatially variable genes.&lt;/p&gt;
+      <guid>https://gouxiaojuan.github.io/project/stagate-pipeline/</guid>
+      <description>&lt;p&gt;&lt;code&gt;STAGATE-pipeline&lt;/code&gt; is a workflow that packages the existing STAGATE method, enabling rapid computation and visualization of spatial domains in spatial transcriptomics data with a single command.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2021-12-09 Paper published in Nature Communications</title>
+      <link>https://gouxiaojuan.github.io/news/2021-12-09-paper-published-in-nature-communications/</link>
+      <pubDate>Thu, 09 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://gouxiaojuan.github.io/news/2021-12-09-paper-published-in-nature-communications/</guid>
+      <description>&lt;p&gt;Our paper Strategies to package recombinant Adeno-Associated Virus expressing the N-terminal gasdermin domain for tumor treatment has been accepted for publication in Nature Communications.&lt;/p&gt;
 </description>
     </item>
     

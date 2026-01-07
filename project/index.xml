@@ -13,20 +13,20 @@
     </image>
     
     <item>
-      <title>Spatial-domain</title>
-      <link>https://gouxiaojuan.github.io/project/spatial-domain/</link>
+      <title>spatialDE-pipeline</title>
+      <link>https://gouxiaojuan.github.io/project/spatialde-pipeline/</link>
       <pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>https://gouxiaojuan.github.io/project/spatial-domain/</guid>
-      <description>&lt;p&gt;&lt;code&gt;Spatial-domain&lt;/code&gt; is a process that uses STAGATE to find spatial domain.&lt;/p&gt;
+      <guid>https://gouxiaojuan.github.io/project/spatialde-pipeline/</guid>
+      <description>&lt;p&gt;&lt;code&gt;spatialDE-pipeline&lt;/code&gt; packages the SpatialDE method, allowing rapid detection of spatially variable genes (SVGs) in spatial transcriptomics data with a single command.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>SVG</title>
-      <link>https://gouxiaojuan.github.io/project/svg/</link>
+      <title>STAGATE-pipeline</title>
+      <link>https://gouxiaojuan.github.io/project/stagate-pipeline/</link>
       <pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>https://gouxiaojuan.github.io/project/svg/</guid>
-      <description>&lt;p&gt;&lt;code&gt;SVG&lt;/code&gt; is a process that uses sptialDE to find spatially variable genes.&lt;/p&gt;
+      <guid>https://gouxiaojuan.github.io/project/stagate-pipeline/</guid>
+      <description>&lt;p&gt;&lt;code&gt;STAGATE-pipeline&lt;/code&gt; is a workflow that packages the existing STAGATE method, enabling rapid computation and visualization of spatial domains in spatial transcriptomics data with a single command.&lt;/p&gt;
 </description>
     </item>
     
