@@ -7,10 +7,39 @@
     <description>Xiaojuan Gou</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 02 Jun 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://gouxiaojuan.github.io/media/logo_hu57dd110a617e3774f481ac89b955aa93_44615_300x300_fit_lanczos_3.png</url>
+      <url>https://gouxiaojuan.github.io/media/logo_hu103eedae3fa528ab661ed51a4dd7624c_150253_300x300_fit_lanczos_3.png</url>
       <title>Xiaojuan Gou</title>
       <link>https://gouxiaojuan.github.io/</link>
     </image>
+    
+    <item>
+      <title>Privacy Policy</title>
+      <link>https://gouxiaojuan.github.io/privacy/</link>
+      <pubDate>Wed, 07 Jan 2026 00:00:00 +0100</pubDate>
+      <guid>https://gouxiaojuan.github.io/privacy/</guid>
+      <description>&lt;p&gt;This website is a personal academic homepage.&lt;/p&gt;
+&lt;p&gt;No personal data are collected, stored, or processed through this website.
+No cookies or tracking technologies are used.&lt;/p&gt;
+&lt;p&gt;If you have any questions regarding privacy, please contact me via email.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Terms</title>
+      <link>https://gouxiaojuan.github.io/terms/</link>
+      <pubDate>Wed, 07 Jan 2026 00:00:00 +0100</pubDate>
+      <guid>https://gouxiaojuan.github.io/terms/</guid>
+      <description>&lt;p&gt;By accessing and using this website, you agree to comply with these Terms and all applicable laws and regulations.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Evolutionary convergence and divergence of hippocampal cytoarchitecture between rodents and primates revealed by single-cell spatial transcriptomics</title>
+      <link>https://gouxiaojuan.github.io/publication/evolutionary-convergence-and-divergence-of-hippocampal-cytoarchitecture-between-rodents-and-primates-revealed-by-single-cell-spatial-transcriptomics/</link>
+      <pubDate>Fri, 02 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://gouxiaojuan.github.io/publication/evolutionary-convergence-and-divergence-of-hippocampal-cytoarchitecture-between-rodents-and-primates-revealed-by-single-cell-spatial-transcriptomics/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Single-cell transcriptome landscape and antigen receptor dynamic during SARS-CoV-2 vaccination</title>
@@ -168,15 +197,6 @@ $$&lt;/p&gt;
 &lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://discord.gg/z8wNYzb&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/content/slides/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Privacy Policy</title>
-      <link>https://gouxiaojuan.github.io/privacy/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>https://gouxiaojuan.github.io/privacy/</guid>
-      <description>&lt;p&gt;Download my website from my github and use it to construct your own website!&lt;/p&gt;
 </description>
     </item>
     

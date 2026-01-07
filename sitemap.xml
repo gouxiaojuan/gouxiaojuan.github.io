@@ -2,16 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://gouxiaojuan.github.io/</loc>
+    <loc>https://gouxiaojuan.github.io/privacy/</loc>
+    <lastmod>2024-06-02T11:21:41+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://gouxiaojuan.github.io/terms/</loc>
     <lastmod>2024-06-02T11:21:41+08:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://gouxiaojuan.github.io/publication-type/2/</loc>
-    <lastmod>2023-07-19T00:00:00+00:00</lastmod>
+    <lastmod>2026-01-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://gouxiaojuan.github.io/publication/evolutionary-convergence-and-divergence-of-hippocampal-cytoarchitecture-between-rodents-and-primates-revealed-by-single-cell-spatial-transcriptomics/</loc>
+    <lastmod>2026-01-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://gouxiaojuan.github.io/publication_types/</loc>
-    <lastmod>2023-07-19T00:00:00+00:00</lastmod>
+    <lastmod>2026-01-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://gouxiaojuan.github.io/</loc>
+    <lastmod>2024-06-02T11:21:41+08:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://gouxiaojuan.github.io/publication/single-cell-transcriptome-landscape-and-antigen-receptor-dynamic-during-sars-cov-2-vaccination/</loc>
@@ -47,10 +59,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://gouxiaojuan.github.io/slides/example/</loc>
-    <lastmod>2024-06-02T11:21:41+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://gouxiaojuan.github.io/privacy/</loc>
     <lastmod>2024-06-02T11:21:41+08:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
