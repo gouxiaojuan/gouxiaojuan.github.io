@@ -5,7 +5,7 @@
     <link>https://gouxiaojuan.github.io/tag/python-pipeline/</link>
       <atom:link href="https://gouxiaojuan.github.io/tag/python-pipeline/index.xml" rel="self" type="application/rss+xml" />
     <description>Python pipeline</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 26 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 10 Jun 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://gouxiaojuan.github.io/media/logo_hu103eedae3fa528ab661ed51a4dd7624c_150253_300x300_fit_lanczos_3.png</url>
       <title>Python pipeline</title>
@@ -17,7 +17,7 @@
       <link>https://gouxiaojuan.github.io/project/cross-species-single-cell-spatial-atlas-of-the-hippocampus/</link>
       <pubDate>Tue, 05 Jul 2022 00:00:00 +0000</pubDate>
       <guid>https://gouxiaojuan.github.io/project/cross-species-single-cell-spatial-atlas-of-the-hippocampus/</guid>
-      <description>&lt;p&gt;This study aims to systematically characterize the cellular composition and spatial organization of hippocampal subregions across species. By integrating single-cell spatial transcriptomics and single-nucleus RNA sequencing, high-resolution transcriptomic atlases of the macaque, marmoset, and mouse hippocampus were constructed, enabling cross-species comparisons of cell types and regional organization.&lt;/p&gt;
+      <description>&lt;p&gt;This project was conducted in collaboration with the Center for Excellence in Brain Science and Intelligence Technology, Chinese Academy of Sciences, and aims to systematically characterize the cellular composition and spatial organization of hippocampal subregions across species. By integrating single-cell spatial transcriptomics and single-nucleus RNA sequencing data, high-resolution transcriptomic atlases of the macaque, marmoset, and mouse hippocampus were constructed, enabling cross-species comparisons of cell types and regional organization.&lt;/p&gt;
 &lt;p&gt;&lt;code&gt;My contribution primarily focused on the integrative analysis of single-cell and spatial transcriptomic data, including cross-dataset cell-type label transfer to assign cellular identities to spatial data, optimization of spatial annotations, and visualization of the results&lt;/code&gt;.&lt;/p&gt;
 </description>
     </item>
@@ -27,7 +27,7 @@
       <link>https://gouxiaojuan.github.io/project/transport-stress-induces-neuro-immune-dysregulation-and-exacerbates-mycobacterium-tuberculosis-infection-in-mice/</link>
       <pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate>
       <guid>https://gouxiaojuan.github.io/project/transport-stress-induces-neuro-immune-dysregulation-and-exacerbates-mycobacterium-tuberculosis-infection-in-mice/</guid>
-      <description>&lt;p&gt;This study revealed that transport stress (TS) suppresses immune function and exacerbates Mycobacterium tuberculosis (Mtb) infection. TS induced anxiety-like behaviors, disrupted HPA axis homeostasis, and disturbed hormone secretion and stress-related gene expression. Single-cell RNA sequencing of the spleen showed that TS inhibited Th17 differentiation, IL-17 signaling, and antigen presentation, and interfered with HPA axis–spleen crosstalk via ligand–receptor interactions. &lt;code&gt;As the lead investigator on this project, I independently conducted all data analyses, visualizations, and figure preparation.&lt;/code&gt;&lt;/p&gt;
+      <description>&lt;p&gt;This study revealed that transport stress (TS) suppresses immune function and exacerbates Mycobacterium tuberculosis (Mtb) infection. TS induced anxiety-like behaviors, disrupted HPA axis homeostasis, and disturbed hormone secretion and stress-related gene expression. Single-cell RNA sequencing of the spleen showed that TS inhibited Th17 differentiation, IL-17 signaling, and antigen presentation, and interfered with HPA axis–spleen crosstalk via ligand–receptor interactions. &lt;code&gt;I played a leading role in conducting data analyses, generating visualizations, and preparing figures for this project.&lt;/code&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -46,6 +46,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://gouxiaojuan.github.io/project/single-cell-immune-profiling-of-covid-19-vaccination/</guid>
       <description>&lt;p&gt;This project utilized single-cell transcriptomics and antigen receptor sequencing to systematically characterize the molecular features of immune cells before and after COVID-19 inactivated vaccine administration. We identified a clonal population of CD8⁺ T cells enriched in both vaccinated individuals and COVID-19 patients, which interact with monocytes and dendritic cells to participate in the immune response. &lt;code&gt;I was primarily responsible for the single-cell data analysis, revealing the dynamic states and functional characteristics of key immune cells, providing insights into COVID-19 immune mechanisms and T-cell-based therapies.&lt;/code&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Identification of Zebrafish Ortholog for Human EC1.45 Enhancer</title>
+      <link>https://gouxiaojuan.github.io/project/identification-of-zebrafish-ortholog-for-human-ec1.45-enhancer/</link>
+      <pubDate>Tue, 10 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://gouxiaojuan.github.io/project/identification-of-zebrafish-ortholog-for-human-ec1.45-enhancer/</guid>
+      <description>&lt;p&gt;During my one-year visiting program at UNSW, I collaborated with Hannah Long’s group at the University of Edinburgh on identifying the zebrafish ortholog of the human EC1.45 enhancer, employing a combination of &lt;code&gt;sequence alignment, transcription factor motif quantification, machine learning approaches, and genome synteny analysis to systematically characterize conserved regulatory elements&lt;/code&gt;.&lt;/p&gt;
 </description>
     </item>
     
