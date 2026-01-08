@@ -13,6 +13,93 @@
     </image>
     
     <item>
+      <title>Organization of mouse prefrontal cortex subnetwork revealed by spatial single-cell multi-omic analysis of SPIDER-Seq</title>
+      <link>https://gouxiaojuan.github.io/publication/organization-of-mouse-prefrontal-cortex-subnetwork-revealed-by-spatial-single-cell-multi-omic-analysis-of-spider-seq/</link>
+      <pubDate>Fri, 02 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://gouxiaojuan.github.io/publication/organization-of-mouse-prefrontal-cortex-subnetwork-revealed-by-spatial-single-cell-multi-omic-analysis-of-spider-seq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evolutionary convergence and divergence of hippocampal cytoarchitecture between rodents and primates revealed by single-cell spatial transcriptomics</title>
+      <link>https://gouxiaojuan.github.io/publication/evolutionary-convergence-and-divergence-of-hippocampal-cytoarchitecture-between-rodents-and-primates-revealed-by-single-cell-spatial-transcriptomics/</link>
+      <pubDate>Fri, 02 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://gouxiaojuan.github.io/publication/evolutionary-convergence-and-divergence-of-hippocampal-cytoarchitecture-between-rodents-and-primates-revealed-by-single-cell-spatial-transcriptomics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Single-cell transcriptome landscape and antigen receptor dynamic during SARS-CoV-2 vaccination</title>
+      <link>https://gouxiaojuan.github.io/publication/single-cell-transcriptome-landscape-and-antigen-receptor-dynamic-during-sars-cov-2-vaccination/</link>
+      <pubDate>Thu, 08 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://gouxiaojuan.github.io/publication/single-cell-transcriptome-landscape-and-antigen-receptor-dynamic-during-sars-cov-2-vaccination/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cross-species single-cell spatial atlas of the hippocampus</title>
+      <link>https://gouxiaojuan.github.io/project/cross-species-single-cell-spatial-atlas-of-the-hippocampus/</link>
+      <pubDate>Tue, 05 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://gouxiaojuan.github.io/project/cross-species-single-cell-spatial-atlas-of-the-hippocampus/</guid>
+      <description>&lt;p&gt;This study aims to systematically characterize the cellular composition and spatial organization of hippocampal subregions across species. By integrating single-cell spatial transcriptomics and single-nucleus RNA sequencing, high-resolution transcriptomic atlases of the macaque, marmoset, and mouse hippocampus were constructed, enabling cross-species comparisons of cell types and regional organization.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;My contribution primarily focused on the integrative analysis of single-cell and spatial transcriptomic data, including cross-dataset cell-type label transfer to assign cellular identities to spatial data, optimization of spatial annotations, and visualization of the results&lt;/code&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Transport stress induces neuro-immune dysregulation and exacerbates Mycobacterium tuberculosis infection in mice</title>
+      <link>https://gouxiaojuan.github.io/project/transport-stress-induces-neuro-immune-dysregulation-and-exacerbates-mycobacterium-tuberculosis-infection-in-mice/</link>
+      <pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://gouxiaojuan.github.io/project/transport-stress-induces-neuro-immune-dysregulation-and-exacerbates-mycobacterium-tuberculosis-infection-in-mice/</guid>
+      <description>&lt;p&gt;This study revealed that transport stress (TS) suppresses immune function and exacerbates Mycobacterium tuberculosis (Mtb) infection. TS induced anxiety-like behaviors, disrupted HPA axis homeostasis, and disturbed hormone secretion and stress-related gene expression. Single-cell RNA sequencing of the spleen showed that TS inhibited Th17 differentiation, IL-17 signaling, and antigen presentation, and interfered with HPA axis–spleen crosstalk via ligand–receptor interactions. &lt;code&gt;As the lead investigator on this project, I independently conducted all data analyses, visualizations, and figure preparation.&lt;/code&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Single-cell Analysis of rAAV-mediated Tumor Pyroptosis</title>
+      <link>https://gouxiaojuan.github.io/project/single-cell-analysis-of-raav-mediated-tumor-pyroptosis/</link>
+      <pubDate>Sun, 25 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://gouxiaojuan.github.io/project/single-cell-analysis-of-raav-mediated-tumor-pyroptosis/</guid>
+      <description>&lt;p&gt;This study developed a recombinant adeno-associated virus strategy for controllable expression of the N-terminal gasdermin domain and demonstrated that it can induce tumor cell pyroptosis, activate antitumor immunity, and effectively inhibit tumor growth. In this project, &lt;code&gt;I was responsible for single-cell transcriptomic analysis, characterizing the cell types and states associated with rAAV-induced pyroptosis, evaluating the impact of treatment on the tumor immune microenvironment, and generating visualizations to support data interpretation.&lt;/code&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Single-cell Immune Profiling of COVID-19 Vaccination</title>
+      <link>https://gouxiaojuan.github.io/project/single-cell-immune-profiling-of-covid-19-vaccination/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://gouxiaojuan.github.io/project/single-cell-immune-profiling-of-covid-19-vaccination/</guid>
+      <description>&lt;p&gt;This project utilized single-cell transcriptomics and antigen receptor sequencing to systematically characterize the molecular features of immune cells before and after COVID-19 inactivated vaccine administration. We identified a clonal population of CD8⁺ T cells enriched in both vaccinated individuals and COVID-19 patients, which interact with monocytes and dendritic cells to participate in the immune response. &lt;code&gt;I was primarily responsible for the single-cell data analysis, revealing the dynamic states and functional characteristics of key immune cells, providing insights into COVID-19 immune mechanisms and T-cell-based therapies.&lt;/code&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>spatialDE-pipeline</title>
+      <link>https://gouxiaojuan.github.io/project/spatialde-pipeline/</link>
+      <pubDate>Mon, 25 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://gouxiaojuan.github.io/project/spatialde-pipeline/</guid>
+      <description>&lt;p&gt;&lt;code&gt;spatialDE-pipeline&lt;/code&gt; packages the SpatialDE method, allowing rapid detection of spatially variable genes (SVGs) in spatial transcriptomics data with a single command.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>STAGATE-pipeline</title>
+      <link>https://gouxiaojuan.github.io/project/stagate-pipeline/</link>
+      <pubDate>Tue, 26 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://gouxiaojuan.github.io/project/stagate-pipeline/</guid>
+      <description>&lt;p&gt;&lt;code&gt;STAGATE-pipeline&lt;/code&gt; is a workflow that packages the existing STAGATE method, enabling rapid computation and visualization of spatial domains in spatial transcriptomics data with a single command.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Strategies to package recombinant Adeno-Associated Virus expressing the N-terminal gasdermin domain for tumor treatment</title>
+      <link>https://gouxiaojuan.github.io/publication/strategies-to-package-recombinant-adeno-associated-virus-expressing-the-n-terminal-gasdermin-domain-for-tumor-treatment/</link>
+      <pubDate>Thu, 09 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://gouxiaojuan.github.io/publication/strategies-to-package-recombinant-adeno-associated-virus-expressing-the-n-terminal-gasdermin-domain-for-tumor-treatment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Privacy Policy</title>
       <link>https://gouxiaojuan.github.io/privacy/</link>
       <pubDate>Wed, 07 Jan 2026 00:00:00 +0100</pubDate>
@@ -43,22 +130,6 @@ No cookies or tracking technologies are used.&lt;/p&gt;
     </item>
     
     <item>
-      <title>Evolutionary convergence and divergence of hippocampal cytoarchitecture between rodents and primates revealed by single-cell spatial transcriptomics</title>
-      <link>https://gouxiaojuan.github.io/publication/evolutionary-convergence-and-divergence-of-hippocampal-cytoarchitecture-between-rodents-and-primates-revealed-by-single-cell-spatial-transcriptomics/</link>
-      <pubDate>Fri, 02 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>https://gouxiaojuan.github.io/publication/evolutionary-convergence-and-divergence-of-hippocampal-cytoarchitecture-between-rodents-and-primates-revealed-by-single-cell-spatial-transcriptomics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Organization of mouse prefrontal cortex subnetwork revealed by spatial single-cell multi-omic analysis of SPIDER-Seq</title>
-      <link>https://gouxiaojuan.github.io/publication/organization-of-mouse-prefrontal-cortex-subnetwork-revealed-by-spatial-single-cell-multi-omic-analysis-of-spider-seq/</link>
-      <pubDate>Fri, 02 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>https://gouxiaojuan.github.io/publication/organization-of-mouse-prefrontal-cortex-subnetwork-revealed-by-spatial-single-cell-multi-omic-analysis-of-spider-seq/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>2025-04-30 Visiting PhD at UNSW sydney</title>
       <link>https://gouxiaojuan.github.io/news/2025-04-30-visiting-phd-at-unsw-sydney/</link>
       <pubDate>Wed, 30 Apr 2025 00:00:00 +0000</pubDate>
@@ -77,46 +148,12 @@ No cookies or tracking technologies are used.&lt;/p&gt;
     </item>
     
     <item>
-      <title>Single-cell transcriptome landscape and antigen receptor dynamic during SARS-CoV-2 vaccination</title>
-      <link>https://gouxiaojuan.github.io/publication/single-cell-transcriptome-landscape-and-antigen-receptor-dynamic-during-sars-cov-2-vaccination/</link>
-      <pubDate>Thu, 08 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://gouxiaojuan.github.io/publication/single-cell-transcriptome-landscape-and-antigen-receptor-dynamic-during-sars-cov-2-vaccination/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>spatialDE-pipeline</title>
-      <link>https://gouxiaojuan.github.io/project/spatialde-pipeline/</link>
-      <pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>https://gouxiaojuan.github.io/project/spatialde-pipeline/</guid>
-      <description>&lt;p&gt;&lt;code&gt;spatialDE-pipeline&lt;/code&gt; packages the SpatialDE method, allowing rapid detection of spatially variable genes (SVGs) in spatial transcriptomics data with a single command.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>STAGATE-pipeline</title>
-      <link>https://gouxiaojuan.github.io/project/stagate-pipeline/</link>
-      <pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>https://gouxiaojuan.github.io/project/stagate-pipeline/</guid>
-      <description>&lt;p&gt;&lt;code&gt;STAGATE-pipeline&lt;/code&gt; is a workflow that packages the existing STAGATE method, enabling rapid computation and visualization of spatial domains in spatial transcriptomics data with a single command.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>2021-12-09 Paper published in Nature Communications</title>
       <link>https://gouxiaojuan.github.io/news/2021-12-09-paper-published-in-nature-communications/</link>
       <pubDate>Thu, 09 Dec 2021 00:00:00 +0000</pubDate>
       <guid>https://gouxiaojuan.github.io/news/2021-12-09-paper-published-in-nature-communications/</guid>
       <description>&lt;p&gt;Our paper Strategies to package recombinant Adeno-Associated Virus expressing the N-terminal gasdermin domain for tumor treatment has been accepted for publication in Nature Communications.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Strategies to package recombinant Adeno-Associated Virus expressing the N-terminal gasdermin domain for tumor treatment</title>
-      <link>https://gouxiaojuan.github.io/publication/strategies-to-package-recombinant-adeno-associated-virus-expressing-the-n-terminal-gasdermin-domain-for-tumor-treatment/</link>
-      <pubDate>Thu, 09 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>https://gouxiaojuan.github.io/publication/strategies-to-package-recombinant-adeno-associated-virus-expressing-the-n-terminal-gasdermin-domain-for-tumor-treatment/</guid>
-      <description></description>
     </item>
     
     <item>

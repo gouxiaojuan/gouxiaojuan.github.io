@@ -2,6 +2,45 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://gouxiaojuan.github.io/publication/organization-of-mouse-prefrontal-cortex-subnetwork-revealed-by-spatial-single-cell-multi-omic-analysis-of-spider-seq/</loc>
+    <lastmod>2026-01-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://gouxiaojuan.github.io/publication/evolutionary-convergence-and-divergence-of-hippocampal-cytoarchitecture-between-rodents-and-primates-revealed-by-single-cell-spatial-transcriptomics/</loc>
+    <lastmod>2026-01-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://gouxiaojuan.github.io/publication/single-cell-transcriptome-landscape-and-antigen-receptor-dynamic-during-sars-cov-2-vaccination/</loc>
+    <lastmod>2022-09-08T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://gouxiaojuan.github.io/project/cross-species-single-cell-spatial-atlas-of-the-hippocampus/</loc>
+    <lastmod>2022-07-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://gouxiaojuan.github.io/project/transport-stress-induces-neuro-immune-dysregulation-and-exacerbates-mycobacterium-tuberculosis-infection-in-mice/</loc>
+    <lastmod>2023-02-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://gouxiaojuan.github.io/project/single-cell-analysis-of-raav-mediated-tumor-pyroptosis/</loc>
+    <lastmod>2020-10-25T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://gouxiaojuan.github.io/project/single-cell-immune-profiling-of-covid-19-vaccination/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://gouxiaojuan.github.io/project/spatialde-pipeline/</loc>
+    <lastmod>2023-12-25T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://gouxiaojuan.github.io/project/stagate-pipeline/</loc>
+    <lastmod>2023-12-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://gouxiaojuan.github.io/publication/strategies-to-package-recombinant-adeno-associated-virus-expressing-the-n-terminal-gasdermin-domain-for-tumor-treatment/</loc>
+    <lastmod>2021-12-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://gouxiaojuan.github.io/privacy/</loc>
     <lastmod>2024-06-02T11:21:41+08:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -18,14 +57,6 @@
     <lastmod>2026-01-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://gouxiaojuan.github.io/publication/evolutionary-convergence-and-divergence-of-hippocampal-cytoarchitecture-between-rodents-and-primates-revealed-by-single-cell-spatial-transcriptomics/</loc>
-    <lastmod>2026-01-02T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://gouxiaojuan.github.io/publication/organization-of-mouse-prefrontal-cortex-subnetwork-revealed-by-spatial-single-cell-multi-omic-analysis-of-spider-seq/</loc>
-    <lastmod>2026-01-02T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://gouxiaojuan.github.io/publication_types/</loc>
     <lastmod>2026-01-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -38,39 +69,23 @@
     <lastmod>2024-06-02T11:21:41+08:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://gouxiaojuan.github.io/project/</loc>
+    <lastmod>2023-12-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://gouxiaojuan.github.io/tag/python-pipeline/</loc>
+    <lastmod>2023-12-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://gouxiaojuan.github.io/tags/</loc>
+    <lastmod>2023-12-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://gouxiaojuan.github.io/news/2022-09-08-paper-published-in-genes-diseases/</loc>
     <lastmod>2022-09-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://gouxiaojuan.github.io/publication/single-cell-transcriptome-landscape-and-antigen-receptor-dynamic-during-sars-cov-2-vaccination/</loc>
-    <lastmod>2022-09-08T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://gouxiaojuan.github.io/project/</loc>
-    <lastmod>2022-02-25T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://gouxiaojuan.github.io/tag/python-pipeline/</loc>
-    <lastmod>2022-02-25T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://gouxiaojuan.github.io/project/spatialde-pipeline/</loc>
-    <lastmod>2022-02-25T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://gouxiaojuan.github.io/project/stagate-pipeline/</loc>
-    <lastmod>2022-02-25T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://gouxiaojuan.github.io/tags/</loc>
-    <lastmod>2022-02-25T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://gouxiaojuan.github.io/news/2021-12-09-paper-published-in-nature-communications/</loc>
-    <lastmod>2021-12-09T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://gouxiaojuan.github.io/publication/strategies-to-package-recombinant-adeno-associated-virus-expressing-the-n-terminal-gasdermin-domain-for-tumor-treatment/</loc>
     <lastmod>2021-12-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
