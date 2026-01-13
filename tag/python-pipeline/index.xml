@@ -59,6 +59,26 @@
     </item>
     
     <item>
+      <title>Mouse PFC Subnetwork Mapping via SPIDER-Seq</title>
+      <link>https://gouxiaojuan.github.io/project/mouse-pfc-subnetwork-mapping-via-spider-seq/</link>
+      <pubDate>Wed, 05 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://gouxiaojuan.github.io/project/mouse-pfc-subnetwork-mapping-via-spider-seq/</guid>
+      <description>&lt;p&gt;This project developed SPIDER-Seq, a single-cell multi-modal sequencing approach integrating projectome, transcriptome, anatomy, and spatial-omics, to map the mouse PFC, reveal coordinated organizational principles and projection patterns, characterize neurotransmitter/receptor networks, and predict neuron projections including fear engram neurons.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;Contributed to single-cell and spatial-omics analyses using SPIDER-Seq to systematically characterize neural circuit-associated molecular features and spatial organization in the mouse prefrontal cortex.&lt;/code&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Single-Cell Spatiotemporal Atlas of Mouse PFC</title>
+      <link>https://gouxiaojuan.github.io/project/single-cell-spatiotemporal-atlas-of-mouse-pfc/</link>
+      <pubDate>Mon, 05 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://gouxiaojuan.github.io/project/single-cell-spatiotemporal-atlas-of-mouse-pfc/</guid>
+      <description>&lt;p&gt;This project generated a spatiotemporal single-cell atlas of the mouse prefrontal cortex (PFC) during early postnatal development, revealing dynamic molecular and cellular changes, particularly in intratelencephalic (IT) neurons. Our analyses identified time-specific gene expression programs, neuron–glia interactions, and signaling pathways underlying IT neuron maturation, providing a valuable resource for understanding PFC development and related neurological disorders.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;I contributed by performing single-cell RNA-seq analyses, supporting the construction of the spatiotemporal atlas and the investigation of neural circuit development.&lt;/code&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>spatialDE-pipeline</title>
       <link>https://gouxiaojuan.github.io/project/spatialde-pipeline/</link>
       <pubDate>Mon, 25 Dec 2023 00:00:00 +0000</pubDate>

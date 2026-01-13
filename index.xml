@@ -13,26 +13,10 @@
     </image>
     
     <item>
-      <title>Organization of mouse prefrontal cortex subnetwork revealed by spatial single-cell multi-omic analysis of SPIDER-Seq</title>
-      <link>https://gouxiaojuan.github.io/publication/organization-of-mouse-prefrontal-cortex-subnetwork-revealed-by-spatial-single-cell-multi-omic-analysis-of-spider-seq/</link>
-      <pubDate>Fri, 02 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>https://gouxiaojuan.github.io/publication/organization-of-mouse-prefrontal-cortex-subnetwork-revealed-by-spatial-single-cell-multi-omic-analysis-of-spider-seq/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Evolutionary convergence and divergence of hippocampal cytoarchitecture between rodents and primates revealed by single-cell spatial transcriptomics</title>
       <link>https://gouxiaojuan.github.io/publication/evolutionary-convergence-and-divergence-of-hippocampal-cytoarchitecture-between-rodents-and-primates-revealed-by-single-cell-spatial-transcriptomics/</link>
       <pubDate>Fri, 02 Jan 2026 00:00:00 +0000</pubDate>
       <guid>https://gouxiaojuan.github.io/publication/evolutionary-convergence-and-divergence-of-hippocampal-cytoarchitecture-between-rodents-and-primates-revealed-by-single-cell-spatial-transcriptomics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Single-cell transcriptome landscape and antigen receptor dynamic during SARS-CoV-2 vaccination</title>
-      <link>https://gouxiaojuan.github.io/publication/single-cell-transcriptome-landscape-and-antigen-receptor-dynamic-during-sars-cov-2-vaccination/</link>
-      <pubDate>Thu, 08 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://gouxiaojuan.github.io/publication/single-cell-transcriptome-landscape-and-antigen-receptor-dynamic-during-sars-cov-2-vaccination/</guid>
       <description></description>
     </item>
     
@@ -83,6 +67,26 @@
     </item>
     
     <item>
+      <title>Mouse PFC Subnetwork Mapping via SPIDER-Seq</title>
+      <link>https://gouxiaojuan.github.io/project/mouse-pfc-subnetwork-mapping-via-spider-seq/</link>
+      <pubDate>Wed, 05 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://gouxiaojuan.github.io/project/mouse-pfc-subnetwork-mapping-via-spider-seq/</guid>
+      <description>&lt;p&gt;This project developed SPIDER-Seq, a single-cell multi-modal sequencing approach integrating projectome, transcriptome, anatomy, and spatial-omics, to map the mouse PFC, reveal coordinated organizational principles and projection patterns, characterize neurotransmitter/receptor networks, and predict neuron projections including fear engram neurons.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;Contributed to single-cell and spatial-omics analyses using SPIDER-Seq to systematically characterize neural circuit-associated molecular features and spatial organization in the mouse prefrontal cortex.&lt;/code&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Single-Cell Spatiotemporal Atlas of Mouse PFC</title>
+      <link>https://gouxiaojuan.github.io/project/single-cell-spatiotemporal-atlas-of-mouse-pfc/</link>
+      <pubDate>Mon, 05 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://gouxiaojuan.github.io/project/single-cell-spatiotemporal-atlas-of-mouse-pfc/</guid>
+      <description>&lt;p&gt;This project generated a spatiotemporal single-cell atlas of the mouse prefrontal cortex (PFC) during early postnatal development, revealing dynamic molecular and cellular changes, particularly in intratelencephalic (IT) neurons. Our analyses identified time-specific gene expression programs, neuron–glia interactions, and signaling pathways underlying IT neuron maturation, providing a valuable resource for understanding PFC development and related neurological disorders.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;I contributed by performing single-cell RNA-seq analyses, supporting the construction of the spatiotemporal atlas and the investigation of neural circuit development.&lt;/code&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>spatialDE-pipeline</title>
       <link>https://gouxiaojuan.github.io/project/spatialde-pipeline/</link>
       <pubDate>Mon, 25 Dec 2023 00:00:00 +0000</pubDate>
@@ -101,10 +105,10 @@
     </item>
     
     <item>
-      <title>Strategies to package recombinant Adeno-Associated Virus expressing the N-terminal gasdermin domain for tumor treatment</title>
-      <link>https://gouxiaojuan.github.io/publication/strategies-to-package-recombinant-adeno-associated-virus-expressing-the-n-terminal-gasdermin-domain-for-tumor-treatment/</link>
-      <pubDate>Thu, 09 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>https://gouxiaojuan.github.io/publication/strategies-to-package-recombinant-adeno-associated-virus-expressing-the-n-terminal-gasdermin-domain-for-tumor-treatment/</guid>
+      <title>Organization of mouse prefrontal cortex subnetwork revealed by spatial single-cell multi-omic analysis of SPIDER-Seq</title>
+      <link>https://gouxiaojuan.github.io/publication/organization-of-mouse-prefrontal-cortex-subnetwork-revealed-by-spatial-single-cell-multi-omic-analysis-of-spider-seq/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://gouxiaojuan.github.io/publication/organization-of-mouse-prefrontal-cortex-subnetwork-revealed-by-spatial-single-cell-multi-omic-analysis-of-spider-seq/</guid>
       <description></description>
     </item>
     
@@ -139,6 +143,14 @@ No cookies or tracking technologies are used.&lt;/p&gt;
     </item>
     
     <item>
+      <title>A single-cell spatiotemporal transcriptomic atlas of mouse prefrontal cortex maps dynamics of intratelencephalic neurons during postnatal development</title>
+      <link>https://gouxiaojuan.github.io/publication/a-single-cell-spatiotemporal-transcriptomic-atlas-of-mouse-prefrontal-cortex-maps-dynamics-of-intratelencephalic-neurons-during-postnatal-development/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://gouxiaojuan.github.io/publication/a-single-cell-spatiotemporal-transcriptomic-atlas-of-mouse-prefrontal-cortex-maps-dynamics-of-intratelencephalic-neurons-during-postnatal-development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>2025-04-30 Visiting PhD at UNSW sydney</title>
       <link>https://gouxiaojuan.github.io/news/2025-04-30-visiting-phd-at-unsw-sydney/</link>
       <pubDate>Wed, 30 Apr 2025 00:00:00 +0000</pubDate>
@@ -157,12 +169,28 @@ No cookies or tracking technologies are used.&lt;/p&gt;
     </item>
     
     <item>
+      <title>Single-cell transcriptome landscape and antigen receptor dynamic during SARS-CoV-2 vaccination</title>
+      <link>https://gouxiaojuan.github.io/publication/single-cell-transcriptome-landscape-and-antigen-receptor-dynamic-during-sars-cov-2-vaccination/</link>
+      <pubDate>Thu, 08 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://gouxiaojuan.github.io/publication/single-cell-transcriptome-landscape-and-antigen-receptor-dynamic-during-sars-cov-2-vaccination/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>2021-12-09 Paper published in Nature Communications</title>
       <link>https://gouxiaojuan.github.io/news/2021-12-09-paper-published-in-nature-communications/</link>
       <pubDate>Thu, 09 Dec 2021 00:00:00 +0000</pubDate>
       <guid>https://gouxiaojuan.github.io/news/2021-12-09-paper-published-in-nature-communications/</guid>
       <description>&lt;p&gt;Our paper Strategies to package recombinant Adeno-Associated Virus expressing the N-terminal gasdermin domain for tumor treatment has been accepted for publication in Nature Communications.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Strategies to package recombinant Adeno-Associated Virus expressing the N-terminal gasdermin domain for tumor treatment</title>
+      <link>https://gouxiaojuan.github.io/publication/strategies-to-package-recombinant-adeno-associated-virus-expressing-the-n-terminal-gasdermin-domain-for-tumor-treatment/</link>
+      <pubDate>Thu, 09 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://gouxiaojuan.github.io/publication/strategies-to-package-recombinant-adeno-associated-virus-expressing-the-n-terminal-gasdermin-domain-for-tumor-treatment/</guid>
+      <description></description>
     </item>
     
     <item>
